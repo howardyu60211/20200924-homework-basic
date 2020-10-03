@@ -9,5 +9,5 @@ int main() {
 		cin >> input[i];
 		tot += input[i];
 	}
-	cout << tot;
+	cout << "總共 " << tot << " 元";
 }
